@@ -13,7 +13,7 @@ $array = ["first", "second", "third"];
 $str = implode(",", $array);
 ?>
 <h2><?=$str?></h2>
-
+<p>123</p>
 
 
 </body>
